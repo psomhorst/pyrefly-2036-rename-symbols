@@ -20,3 +20,6 @@ sources = ["src"]
 include = ["src/**"]
 
 [tool.pyrefly]
+
+# [tool.uv]
+# package = false
