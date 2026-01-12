@@ -8,7 +8,7 @@ description = ""
 dynamic = ["version"]
 requires-python = ">= 3.11"
 dependencies = []
-authors = []
+authors = [{name="Peter Somhorst"}]
 
 [tool.hatch.version]
 path = "src/__version__.py"
