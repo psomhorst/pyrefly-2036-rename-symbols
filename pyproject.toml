@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = ""
+name = "case-2036"
 description = ""
 dynamic = ["version"]
 requires-python = ">= 3.11"
