@@ -18,3 +18,5 @@ sources = ["src"]
 
 [tool.hatch.build.targets.wheel]
 include = ["src/**"]
+
+[tool.pyrefly]
